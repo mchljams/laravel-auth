@@ -1,12 +1,12 @@
 {
-    "name": "laravel/ui",
-    "description": "Laravel UI utilities and presets.",
-    "keywords": ["laravel", "ui"],
+    "name": "mchljams/laravel-auth",
+    "description": "Laravel Auth Backend.",
+    "keywords": ["laravel", "auth", "api"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Taylor Otwell",
-            "email": "taylor@laravel.com"
+            "name": "Michael James",
+            "email": "mchljams@lmchljams.com"
         }
     ],
     "require": {
