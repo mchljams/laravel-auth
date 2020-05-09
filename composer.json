@@ -21,13 +21,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Laravel\\Ui\\": "src/",
-            "Illuminate\\Foundation\\Auth\\": "auth-backend/"
+            "Mchljams\\LaravelAuth\\": "src/",
+            "Illuminate\\Foundation\\Auth\\": "auth/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Laravel\\Ui\\Tests\\": "tests/"
         }
     },
     "config": {
@@ -39,7 +38,7 @@
         },
         "laravel": {
             "providers": [
-                "Laravel\\Ui\\UiServiceProvider"
+                "Mchljams\\LaravelAuth\\LaravelAuthServiceProvider"
             ]
         }
     },
